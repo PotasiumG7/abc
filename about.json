@@ -1,0 +1,35 @@
+{
+    "main": {
+        "title": "About Diamond",
+        "data": "Access the world wide web, Diamond is an anti-censorship web service."
+    },
+    "authors": [
+        {
+            "name": "Syna",
+            "data": "Finn"
+        },
+        {
+            "name": "TN",
+            "data": "Titanium Network"
+        },
+        {
+            "name": "<a href=\"https://hobo-helper.glitch.me\">Syna</a>",
+            "data": "Creator of <a href=\"https://hobo-helper.glitch.me\">The Hobo Helper</a>"
+        }
+    ],
+    "socials": [
+        {
+            "name": "<a href=\"https://hobo-helper.glitch.me\">The Hobo Helper</a>",
+            "data": "The Hobo Helper helps get beautiful hobos off the streets"
+        },
+        {
+            "name": "<a href=\"https://discord.gg/YFQ9NtAsfM\">Discord Invite</a>",
+            "data": "The &#173;Official &#173;Diamon&#173;d Discord&#173; Serv&#173;er."
+        }
+    ],
+    "contact": [
+        {
+            "name": "Message me on <a href=\"https://discord.com\">Discord</a>: $yna#5745"
+        }
+    ]
+}
